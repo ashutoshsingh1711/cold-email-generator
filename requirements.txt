@@ -1,0 +1,10 @@
+streamlit~=1.38.0
+langchain_groq
+langchain_core
+python-dotenv~=1.0.1
+chromadb
+langchain-core~=0.2.37
+pandas~=2.2.2
+langchain_community
+openpyxl
+beautifulsoup4
