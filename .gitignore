@@ -2,3 +2,4 @@
 /venv/
 .idea
 /vectorstore/
+__pycache__/
